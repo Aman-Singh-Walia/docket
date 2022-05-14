@@ -1,7 +1,7 @@
 import 'package:docket/data_manage/update_data.dart';
 import 'package:docket/model/task.dart';
 
-import 'package:docket/pages/new_home.dart';
+import 'package:docket/pages/home_page.dart';
 import 'package:docket/widgets/loading.dart';
 import 'package:flutter/material.dart';
 

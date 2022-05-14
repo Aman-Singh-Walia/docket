@@ -1,6 +1,6 @@
 # Docket
 
-A task manager and todo list application, Which can be used to store your task and to set reminder of the tasks
+A task manager and todo list application, It can store your todos in local storage and reminds you about your tasks through notification
 
 ## Getting Started
 
