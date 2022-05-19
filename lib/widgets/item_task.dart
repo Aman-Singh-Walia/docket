@@ -42,14 +42,14 @@ class ItemTask extends StatelessWidget {
               children: [
                 SlidableAction(
                   onPressed: delete,
-                  backgroundColor: Colors.white,
-                  foregroundColor: Colors.red,
+                  backgroundColor: Colors.red,
+                  foregroundColor: Colors.white,
                   icon: Icons.delete,
                 ),
                 SlidableAction(
                     onPressed: editTaskPage,
-                    backgroundColor: Colors.white,
-                    foregroundColor: Colors.blue,
+                    backgroundColor: Colors.blue,
+                    foregroundColor: Colors.white,
                     icon: Icons.mode_edit)
               ]),
           child: Row(
